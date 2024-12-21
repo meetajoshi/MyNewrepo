@@ -7,3 +7,18 @@ this is test message to check pull command
 6
 7
 8
+
+
+clone a repo
+git clone "repo url"
+
+
+checkout a branch named "feature/development"
+git checkout "feature/development"
+
+to create a new branch and take checkout f that new branch
+git checkout -b "feature/ip3-123_changes"
+
+git status
+On branch feature/ip3-123_changes
+nothing to commit, working tree clean
